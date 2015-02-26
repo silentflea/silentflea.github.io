@@ -3,13 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+> I'm a self-taught programmer currently living in Austin Texas.
+> I have a strong interest in cryptography, music production, and mathematics.
+> I'm a bit of an autodidact, so I spend most of my free time reading and
+> learning new things.
